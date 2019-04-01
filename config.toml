@@ -1,8 +1,10 @@
 baseURL = "https://takumi.tmfam.com/"
-languageCode = "ja-jp"
-title = "Takumin Notes"
-theme = "hugo-coder"
 canonifyURLs = true
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+languageCode = "ja-jp"
+theme = "hugo-coder"
+title = "Takumin Notes"
 
 [params]
     author = "Takumi Takahashi"
