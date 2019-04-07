@@ -5,10 +5,13 @@ hasCJKLanguage = true
 languageCode = "ja-jp"
 theme = "hugo-coder"
 title = "Takumin Notes"
+enableEmoji = true
+enableGitInfo = true
+googleAnalytics = "UA-62539992-1"
 
 [params]
     author = "Takumi Takahashi"
-    info = "DevOps Software Engineer"
+    info = "DevOps Software/Infrastructure Engineer"
     description = "Takumi Takahashi Personal Website"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpeg"
