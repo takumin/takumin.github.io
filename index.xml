@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takumin Notes</title>
+    <link>https://takumi.tmfam.com/</link>
+    <description>Recent content on Takumin Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 01 Apr 2019 15:45:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://takumi.tmfam.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://takumi.tmfam.com/about/</link>
+      <pubDate>Mon, 01 Apr 2019 15:45:34 +0000</pubDate>
+      
+      <guid>https://takumi.tmfam.com/about/</guid>
+      <description>Personal Full name 高橋 巧 (Takumi Takahashi) Location Tochigi, Japan Social Github @takumin Qiita @takumiin Speaker Deck @takumin Twitter @takumiiinn</description>
+    </item>
+    
+  </channel>
+</rss>
