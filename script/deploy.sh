@@ -9,7 +9,7 @@ hugo
 cd public
 
 # Add changes to git.
-git add .
+git add -A
 
 # Commit changes.
 msg="rebuilding site `date`"
