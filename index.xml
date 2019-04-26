@@ -6,10 +6,19 @@
     <description>Recent content on Takumin Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 13 Apr 2019 17:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2019 16:34:14 +0000</lastBuildDate>
     
 	<atom:link href="https://takumi.tmfam.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pages</title>
+      <link>https://takumi.tmfam.com/pages/</link>
+      <pubDate>Fri, 26 Apr 2019 16:34:14 +0000</pubDate>
+      
+      <guid>https://takumi.tmfam.com/pages/</guid>
+      <description> Documantation Project  Linux KVM API Documents  </description>
+    </item>
     
     <item>
       <title>Hello World</title>
