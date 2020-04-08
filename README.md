@@ -1,1 +1,0 @@
-# takumin.github.io
