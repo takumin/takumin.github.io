@@ -11,7 +11,7 @@ googleAnalytics = "UA-62539992-1"
 
 [params]
     author = "Takumi Takahashi"
-    info = "DevOps Software/Infrastructure Engineer"
+    info = "Embedded DevOps Software Engineer"
     description = "Takumi Takahashi Personal Website"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpeg"
@@ -19,31 +19,28 @@ googleAnalytics = "UA-62539992-1"
     favicon_32 = "images/favicon-32x32.png"
     favicon_16 = "images/favicon-16x16.png"
 
-    hidecredits = true
-    hidecopyright = true
-
     rtl = false
     math = true
 
 # Social links
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fa fa-github fa-2x"
     weight = 1
-    url = "https://github.com/takumin/"
+    url = "https://github.com/takumin"
 [[params.social]]
     name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
+    icon = "fa fa-gitlab fa-2x"
     weight = 2
-    url = "https://gitlab.com/takumiiinn/"
+    url = "https://gitlab.com/takumiiinn"
 [[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
+    icon = "fa fa-twitter fa-2x"
     weight = 3
-    url = "https://twitter.com/takumiiinn/"
+    url = "https://twitter.com/takumiiinn"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin fa-2x"
+    icon = "fa fa-linkedin fa-2x"
     weight = 4
     url = "https://www.linkedin.com/in/takumiiinn/"
 
