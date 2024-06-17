@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/takumin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://takumi.tmfam.com
+  * I am takumin (https://keybase.io/takumin) on keybase.
+  * I have a public key with fingerprint 2943 C7A6 B3CA 3529 3A3D  E108 C37E 3214 99B6 8E3F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c125859021b97fe9fcdd2e3ebcce981e80e1f7c9822f64044ac7de7fe17986a30a",
+      "fingerprint": "2943c7a6b3ca35293a3de108c37e321499b68e3f",
+      "host": "keybase.io",
+      "key_id": "c37e321499b68e3f",
+      "kid": "01018cd7fcccaf39dca94b6b9b2f8ffc570be3c8425efc83e7b14598d809a6bb38110a",
+      "uid": "f1aad0985fb8bcd806cc317b4a725b19",
+      "username": "takumin"
+    },
+    "service": {
+      "hostname": "takumi.tmfam.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1718609234,
+  "expire_in": 157680000,
+  "prev": "c9d3c3e2b7347920e9923a82c4edd8879ab2a7e8b766fa7f257b1038167fa267",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNtAnicbZJ7UFRVAMaXQBR0jZGawKGwi4pNtN73g0mbGsZ1cNwaIV+E2znnngtX
+2LvL7t0tBNRgZJBETdASsIhoeIwkZi6VQrKQAyOPssTUwTKCaspgoDHKCbvL5B/N
+dP45c875fd/5zjenxxxqigzp3k0/dNx/8JmQS101XpPiHNtUQECnnE8kFxA5eG7C
+uTL26PYcVSaSCZKiSUTRnMhJJE1BSVCwpCBZpjGDIUJYEikskphSBCSJNK3wLMmy
+AAkyNkhKkEQeMCQgkghF1bKw2+VWNd2wpSWWQQLgIYMAw9ESAxgZU6SIGAEzNMVK
+EuRFzCiGMNvpCSqMcBB4sEV1GnvGwj4X73/4+7lJSkSyoCCEgMJIMgISC3koQVoR
+FQVxAgkxg0SW5rCCRAYLkGI5SZRFUjJiQUakqLnc3jk7hQJAJiWRU6AIkQHxCDGU
+AFkg0BykpCDowW4NOLBB6yDH61A1oiiJMDZ9KsLBXoMP+Q9g0R0KcFiQ02HIXW6n
+7kTOXOM0W9ddnuSgWs93BfFXMLT/a2SHqiYbVRoKH3Z7VKdGJFMGiXQ16EwJlMiT
+Es2wSQR+1aW6sV0NEpzAi6QxgvdgX7A4SWYQg2koMKwg0SSWDBEQacRiWRZFQQKQ
+BgIWocDzChAUmjMKIo1WeEEBNC8QwaflaU4imaGNnCDL8PSoWRrQvW5MFAW6Xgoz
+hUSawuc9EPxjpsiIqPs/L/Xeg3/HhT6+ttH8x7XCKB/a01q6xDp6r+J8zYjroqV9
+wZu738NTZzJe7zlgDmz968+qkh+LBdsjZfVjWwbSbTDfes0X3RXVqs6cPEG9gDr7
+S4/07PHHLEWdffFy5rYK58nGsuIz09YF5oS0wmqX7r2xPvX2qozY5ooVG79uX9ax
+oahmMuzjAn+ecq7SNjL+7Sm06+ex5/yW8dPKWMMMY91Wv+/X3Hm2yvqS0suNWdXc
+6v6oxbFoQGmWo8pi988MVcXY3+/d4Lf/EmiOvPnUabq260Pf3qdXzn4eXx42f/Ni
+m/Z7T5x7tLNuU0nauhXtMD1vaebhidSZ1yJ6PdbOMsXqezExNjx6x2xvfMWpjtSF
+3DeZn3oyPxsEO9PXHWjT3zoEkuTvY5oywFDrwsuJd/iR9bO+thv7fYsengwMhJq3
+V1wPSXm2qvKriNWhyxbduhCefbN75ZQ9IfVcuRahXQcF4ymO8Ze7rzx5xPTR1JrC
+J26R/Qcnhrf+kFH+SeVgInmibIg+3rSqpRhr3yVeDejen/q3JNQ1bLxz9fkvU3Yd
+chGD70Q7Wt72UhNnr3xwofh863K54bC/9927Y18I04Gj1WtYfnjH6Pw3pint6Pas
+2r5jS9bWNVwy3balwbu11HDLsc1SB+N4LNMTycX9NtBk2hdnXm7pm2lDU1rSzosh
+xWcLqjPG5Uf3Tv4DOEjEpg==
+=N/yi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/takumin
+
+==================================================================
